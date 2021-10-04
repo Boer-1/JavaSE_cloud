@@ -19,7 +19,7 @@ public class MyPanel extends JPanel implements KeyListener,Runnable {
     Image image3 = null;
     Image image4 = null;
     //敌方坦克数量
-    int enemyTankSize = 8;
+    int enemyTankSize = 5;
 
     public MyPanel(){
         //Initialize our tank
